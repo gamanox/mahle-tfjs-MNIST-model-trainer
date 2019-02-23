@@ -1,4 +1,4 @@
-#We The Force TensorFlow.js Training MNIST with Node.js for Mahle
+# We The Force TensorFlow.js Training MNIST model with Node.js for Mahle
 
 This code train MNIST (using the layers API) under Node.js for a Mahle project.
 
